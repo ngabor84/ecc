@@ -1,0 +1,5 @@
+.idea
+vendor
+bin/ecc.phar
+bin/ecc.phar.asc
+credentials
