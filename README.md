@@ -6,6 +6,11 @@
 CLI tool for check environment variables consistency between several environments
 
 ## Installation
+### with [phive](https://github.com/phar-io/phive)
+```shell
+phive install ecc
+```
+### manually
 ```shell
 # download the phar file and the public key
 wget https://github.com/ngabor84/ecc/releases/download/0.1.0/ecc.phar
