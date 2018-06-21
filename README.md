@@ -1,3 +1,6 @@
+[ ![Codeship Status for ngabor84/ecc](https://app.codeship.com/projects/d0ae3480-5798-0136-cad2-6231e092a7cb/status?branch=master)](https://app.codeship.com/projects/294979)
+[![GitHub license](https://img.shields.io/github/license/ngabor84/ecc.svg)](https://github.com/ngabor84/ecc/blob/master/LICENSE)
+
 # Environment Consistency Checker
 
 CLI tool for check environment variables consistency between several environments
